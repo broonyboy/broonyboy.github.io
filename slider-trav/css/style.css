@@ -21,19 +21,19 @@ body,
 }
 
 .slide1 {
-    background-image: url('img/image1.jpeg');
+    background-image: url('../img/image1.jpeg');
 }
 
 .slide2 {
-    background-image: url('/img/image2.jpg');
+    background-image: url('../img/image2.jpg');
 }
 
 .slide3 {
-    background-image: url('/img/image3.jpeg');
+    background-image: url('../img/image3.jpeg');
 }
 
 .slide4 {
-    background-image: url('/img/image4.jpeg');
+    background-image: url('../img/image4.jpeg');
 }
 
 .slide-content {
